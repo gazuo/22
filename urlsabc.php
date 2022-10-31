@@ -1,4 +1,4 @@
 <?php
 return array (
-  'aaaaa' => 'https://51015.cn',
+  'aaaaa' => 'https://gazuo.github.io',
 );
